@@ -18,27 +18,33 @@ H1 {
 }
 h2 {
   font-size: 2rem;
-  color: #f72904;
+  color: #dfee0f;
   padding: 15px;
   text-align: center;
 }
-p2 {
+p1 {
   font-size: 1.2rem;
-  color: #13110b;
+  color: #17408b;
   padding: 10px;
   text-align: center;
 }
 h3 {
   font-size: 1.5rem;
-  color: #072920;
+  color: #e0e40f;
   padding: 30px;
   text-align: center;
 }
 H4 {
   font-size: 1.5rem;
-  color: #000000;
+  color: #d6da0d;
   padding: 8px;
   text-align: center;
+}
+p4 {
+  font-size: 1.2rem;
+  color: #17408b;
+  padding: 5px;
+  text-align: left;
 }
 ul {
   list-style-type: square;
@@ -46,19 +52,31 @@ ul {
 }
 LI {
   font-size: 1.2rem;
-  color: #e7760b;
+  color: #e7630b;
   padding: 5px;
-  text-align: left;
+  text-align: center
+;
+}
+body {
+  background-color: hwb(19 65% 12%);
 }
 H5 {
   font-size: 2rem;
-  color: hwb(246 10% 21%);
+  color: hwb(56 6% 6%);
   padding: 25px;
   text-align: center;
 }
 p5 {
   font-size: 13px;
-  background-color: hsla(29, 86%, 49%, 0.925);
+  background-color: hsla(46, 73%, 68%, 0.308);
   padding: 10px;
   text-align: center;
+}
+li:nth-child(1) {
+  color: #c10bd1;
+  text-align: left;
+}
+li:nth-child(2) {
+  color: #c10bd1;
+  text-align: left;
 }
