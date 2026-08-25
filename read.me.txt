@@ -1,0 +1,3 @@
+<!-- Author: kevin henshaw
+purpos: the purpos of this web page is to showcase my skills in both css and html.
+Along with basic personal details and my past experience/projects with coding.
