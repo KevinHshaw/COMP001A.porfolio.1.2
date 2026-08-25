@@ -1,82 +1,67 @@
-* {
+*{
   margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  padding: 0; 
 }
-body {
-  font-family: "Poppins", sans-serif;
-  margin: 0;
-  padding: 0;
-  max-width: 100%;
-}
-H1 {
-  font-size: 2.5rem;
-  color: #413434;
-  padding: 20px;
+h1{
+  font-size: 50px;
+  color: #f30606;
   text-align: center;
 }
-h2 {
-  font-size: 2rem;
-  color: #dfee0f;
-  padding: 15px;
+h2{
+  font-size: 30px;
+  color: hsl(258, 84%, 37%);
   text-align: center;
 }
-p1 {
-  font-size: 1.2rem;
-  color: #17408b;
-  padding: 10px;
-  text-align: center;
-}
-h3 {
-  font-size: 1.5rem;
-  color: #e0e40f;
-  padding: 30px;
-  text-align: center;
-}
-H4 {
-  font-size: 1.5rem;
-  color: #d6da0d;
-  padding: 8px;
-  text-align: center;
-}
-p4 {
-  font-size: 1.2rem;
-  color: #17408b;
-  padding: 5px;
+p1{
+  font-size: 20px;
+  color: hsl(44, 82%, 46%);
   text-align: left;
 }
-ul {
-  list-style-type: square;
-  padding-left: 20px;
-}
-LI {
-  font-size: 1.2rem;
-  color: #e7630b;
-  padding: 5px;
-  text-align: center
-;
-}
-body {
-  background-color: hwb(19 65% 12%);
-}
-H5 {
-  font-size: 2rem;
-  color: hwb(56 6% 6%);
-  padding: 25px;
-  text-align: center;
-}
-p5 {
-  font-size: 13px;
-  background-color: hsla(46, 73%, 68%, 0.308);
-  padding: 10px;
-  text-align: center;
-}
-li:nth-child(1) {
-  color: #c10bd1;
+h3{
+  font-size: 30px;
+  color: hsl(0, 0%, 0%);
   text-align: left;
 }
-li:nth-child(2) {
-  color: #c10bd1;
+h4{
+  font-size: 30px;
+  color: hsl(0, 100%, 2%);
   text-align: left;
+}
+p2{
+  font-size: 20px;
+  color: hsl(36, 90%, 37%);
+  text-align: center;
+}
+p3{
+  font-size: 20px;
+  color: hsl(231, 33%, 4%);
+  text-align: center;
+}
+p4{
+  font-size: 20px;
+  color: hsl(35, 75%, 3%);
+  text-align: center;
+}
+p5{
+  font-size: 20px;
+  color: hsl(230, 27%, 4%);
+  text-align: center;
+}
+p6{
+  font-size: 20px;
+  color: hsl(0, 0%, 0%);
+  text-align: right;
+}
+h5{
+  font-size: 30px;
+  color: hsl(0, 100%, 2%);
+  text-align: center;
+}
+p7{
+  font-size: 20px;
+  color: hsl(36, 90%, 37%);
+  text-align: center;
+}
+background{
+  background-color: hsl(152, 81%, 51%);
 }
